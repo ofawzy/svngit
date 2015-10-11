@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<channel>
+<item>
+<booktitle>montadaphp</booktitle>
+<pubdate>02.05.2009 23:34:44</pubdate>
+<Author>abdelouahid elbachiri</Author>
+<price>20 $</price>
+</item>
+
+<item>
+<booktitle>montadaphp3</booktitle>
+<pubdate>03.05.2009 23:34:44</pubdate>
+<Author>abdelouahid </Author>
+<price>230 $</price>
+</item>
+
+
+</channel>
